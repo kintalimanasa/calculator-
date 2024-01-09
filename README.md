@@ -13,5 +13,5 @@ Change sign of the expression
 To run the calculator on your local machine, follow these steps:
 
  1.Clone the repository:
- 
+ https://github.com/kintalimanasa/calculator-.git
 
